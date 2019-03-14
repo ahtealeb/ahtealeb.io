@@ -1,11 +1,10 @@
-# Your GitHub Learning Lab Repository for GitHub Pages
+# Ahmed Tealeb Bio Repository for GitHub Pages
 
-Welcome to **your** repository for your GitHub Learning Lab course. This repository will be used during the different activities that I will be guiding you through. 
+Welcome to my Biography repository on GitHub. This repository will be used during the different activities that I will go you through. 
 
 Oh! I haven't introduced myself...
 
-I'm the GitHub Learning Lab bot and I'm here to help guide you in your journey to learn and master the various topics covered in this course. I will be using Issue and Pull Request comments to communicate with you. In fact, I already added an issue for you to check out.
-
-![issue tab](https://lab.github.com/public/images/issue_tab.png)
+My name is Ahmed Tealeb and I am an information systems professional and researcher with PhD, MSc. and BSc. degrees in Information Systems, from Faculty of Computers and Information - Cairo University. I have been working in IT industry since 2003. I have more than 15 years working experience in Information Systems analysis, design and testing in software houses in Egypt. Since June 2009, I work as a Senior Software Quality Engineer at Information Systems Department, Ministry of Interior - State of Qatar.
+My research interests include Information Systems Process Modeling, Process Simulation, Process Automation, Process Mining, BPM Systems, Workflow Management Systems, Data Science, Data Analytics, and Data Visualization.
 
 I'll meet you over there, can't wait to get started!
