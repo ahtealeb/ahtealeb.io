@@ -1,15 +1,33 @@
-title: Your awesome title
-author: GitHub User
+title: Ahmed Tealeb
+author: Ahmed Tealeb
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+Ahmed is an information systems professional and researcher with PhD, MSc. and BSc. degrees in Information Systems, 
+from Faculty of Computers and Information - Cairo University. I have been working in IT industry since 2003. 
+I have more than 15 years working experience in Information Systems analysis, design and testing in software houses in Egypt. 
+Since June 2009, I work as a Senior Software Quality Engineer at Information Systems Department, 
+Ministry of Interior - State of Qatar.
+My research interests include Information Systems Process Modeling, Process Simulation, Process Automation, 
+Process Mining, BPM Systems, Workflow Management Systems, Data Science, Data Analytics, and Data Visualization.
+
+Accreditation and Certifications:
+-----------—
+• IBM Data Science Professional Certificate
+• Blockchain | Blockchain Specialization (The State University of New York & University at Buffalo) 
+• IBM Blockchain Foundation for Developers 
+• Blockchain: Foundations and Use Cases (ConsenSys Academy)
+• Blockchain 360: A State of the Art for Professionals
+• ORACLE 9i Forms Developer Professional Certified (OCP)
+• Certified Process Professional/Master (CPP-Master)
+• Certified Business Process Associate (CBPA)
+• ITIL ® V3 | Foundation Certified (IT infrastructure library)
+• BPMN 
+• SCRUM Fundamentals
 
 # social links
-twitter_username: your-twitter-handle
-github_username:  your-github-handle
+twitter_username: ahtealeb
+github_username:  ahtealeb
 
 show_excerpts: true # set to false to remove excerpts on the homepage
 
-theme: jekyll-theme-minimal
+theme: minima
