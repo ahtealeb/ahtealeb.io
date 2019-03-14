@@ -1,5 +1,4 @@
-# Ahmed Tealeb Bio Repository for GitHub Pages
-
+# Ahmed Tealeb Bio Repository
 Welcome to my Biography repository on GitHub. This repository will be used during the different activities that I will go you through. 
 
 Oh! I haven't introduced myself...
